@@ -11,6 +11,3 @@ okta:
   oauth2:
     issuer: https://dev-15585796.okta.com/oauth2/default
     audience: api://default
-spring:
-  zipkin:
-    baseUrl: http://localhost:9411
